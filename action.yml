@@ -1,5 +1,5 @@
 name: Recall repo memory
-description: Memory for your repository: remembers pull requests, reviews, issues and commits, and answers what was decided and why.
+description: "Memory for your repository: remembers pull requests, reviews, issues and commits, and answers what was decided and why."
 author: Recall
 branding:
   icon: database
